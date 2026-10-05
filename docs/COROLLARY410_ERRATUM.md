@@ -31,4 +31,4 @@ Pinned [arXiv v1 source](https://arxiv.org/src/2609.08930v1), `main.tex` lines 2
 
 `main.tex` SHA-256: `47417910f9b553a0836a463cb67bcd5b11fcd78f12b544963c5cac821b8395ff`.
 
-Original download hashes are recorded in [`paper/PROVENANCE.json`](../paper/PROVENANCE.json). Proving the corrected catalog does not prove the literal catalog or imply approval by the paper's authors.
+Original download hashes are recorded in [`paper/PROVENANCE.json`](../paper/PROVENANCE.json). The corrected catalog and the literal printed catalog are distinct propositions.
