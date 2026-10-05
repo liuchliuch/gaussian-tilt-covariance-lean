@@ -1,0 +1,30 @@
+{
+  "title": "Optimal Covariance Inflation under Gaussian Tilts",
+  "authors": [
+    "Minbo Gao",
+    "Zhengfeng Ji",
+    "Chenghua Liu"
+  ],
+  "arxiv": "2609.08930",
+  "version": "v1",
+  "submitted_utc": "2026-09-08T15:54:59Z",
+  "official_abstract": "https://arxiv.org/abs/2609.08930v1",
+  "official_pdf": "https://arxiv.org/pdf/2609.08930v1",
+  "official_source": "https://arxiv.org/src/2609.08930v1",
+  "files": {
+    "paper/arxiv-2609.08930v1.pdf": {
+      "sha256": "3b584ab6643582e7c80ce44f946262e9fe48e274bd65d8e204466a06128adbad",
+      "bytes": 472508
+    },
+    "paper/arxiv-2609.08930v1.tar.gz": {
+      "sha256": "c26e2effbb62d6a7fac033ddc404ad96785c2ecb18153763a6ddc196c61654b3",
+      "bytes": 39811
+    },
+    "paper/arxiv-2609.08930v1.txt": {
+      "sha256": "7224472c69cc83c2a9012fe6722dc1086c18fe8d6e614d9c65236435827219a8",
+      "bytes": 95701
+    }
+  },
+  "appendices": "none active",
+  "excluded_comment_only_material": "Gaussian annealing corollary and schedule discussion are commented out and not part of v1 published statements"
+}

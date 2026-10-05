@@ -1,0 +1,42 @@
+{
+  "challenge_module": "StatementContracts.Challenge",
+  "solution_module": "StatementContracts.Solution",
+  "theorem_names": [
+    "GaussianTiltContracts.paper_theorem1_1",
+    "GaussianTiltContracts.paper_lemma2_1",
+    "GaussianTiltContracts.paper_theorem2_2",
+    "GaussianTiltContracts.paper_theorem2_3",
+    "GaussianTiltContracts.paper_theorem2_4",
+    "GaussianTiltContracts.paper_theorem2_5",
+    "GaussianTiltContracts.paper_lemma2_6",
+    "GaussianTiltContracts.paper_theorem3_1",
+    "GaussianTiltContracts.paper_lemma3_2",
+    "GaussianTiltContracts.paper_corollary3_3",
+    "GaussianTiltContracts.paper_lemma3_4",
+    "GaussianTiltContracts.paper_lemma3_5",
+    "GaussianTiltContracts.paper_corollary3_6",
+    "GaussianTiltContracts.paper_lemma3_7",
+    "GaussianTiltContracts.paper_lemma3_8",
+    "GaussianTiltContracts.paper_lemma3_9",
+    "GaussianTiltContracts.paper_proposition3_10",
+    "GaussianTiltContracts.paper_theorem4_1",
+    "GaussianTiltContracts.paper_lemma4_2",
+    "GaussianTiltContracts.paper_theorem4_3",
+    "GaussianTiltContracts.paper_lemma4_4",
+    "GaussianTiltContracts.paper_lemma4_5",
+    "GaussianTiltContracts.paper_lemma4_6",
+    "GaussianTiltContracts.paper_lemma4_7",
+    "GaussianTiltContracts.paper_corollary4_8",
+    "GaussianTiltContracts.paper_lemma4_9",
+    "GaussianTiltContracts.corollary4_10_corrected",
+    "GaussianTiltContracts.literal4_10_false",
+    "GaussianTiltContracts.corrected_catalog"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "enable_nanoda": false
+}
